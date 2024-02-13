@@ -1,0 +1,22 @@
+    h2 {
+      text-align: center;
+    }
+    
+    p 
+    {
+        background-color: dodgerblue;
+        width: 1070px;
+        height: 128px;
+        padding-left: 8px;
+        padding-top: 32px;
+        border-top-width: 9px;
+        border-bottom-width: 9px;
+        border-left-width: 9px;
+        border-right-width: 9px;
+        border-color: lightslategray;
+        border-style: solid;
+        margin: 0;
+        text-align: center;
+        color: white;
+        font-size: 18px;
+    }
